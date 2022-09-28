@@ -1,0 +1,2 @@
+# git
+git dla kollega
